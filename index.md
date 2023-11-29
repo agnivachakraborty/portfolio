@@ -1,5 +1,6 @@
 # Technical Architect
-## Technical Skills: Python, SQL, Cognos Analytics, Power BI, Planning Analytocs 
+## Technical Skills
+  Python, SQL, Cognos Analytics, Power BI, Planning Analytics 
 ## Education
 [View LinkedIn Profile](https://www.linkedin.com/in/agnivachakraborty/)
 
