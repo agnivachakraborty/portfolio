@@ -1,7 +1,7 @@
 # Technical Architect
 ## Technical Skills: Python, SQL, Cognos Analytics, Power BI, Planning Analytocs 
 ## Education
-[Link to another page](./another-page.html).
+[View LinkedIn Profile](https://www.linkedin.com/in/agnivachakraborty/)
 
 There should be whitespace between paragraphs.
 
