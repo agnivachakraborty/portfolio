@@ -1,9 +1,6 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+# Technical Architect
+## Technical Skills: Python, SQL, Cognos Analytics, Power BI, Planning Analytocs 
+## Education
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
